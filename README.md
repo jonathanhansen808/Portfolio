@@ -1,8 +1,6 @@
 # Projects (Reverse Chronological)
 
-Project 6 objective: Manipulate data from a Kaggle dataset by making use of string manipulation. 
-
-Project 7 objective: Parse a CSV file to create various lists and dictionaries regarding player data.
+Project 1: Parse a CSV file on FIFA player data to return information regarding indiviudal player's stats or aggregated information of all players based on keys like country or jersey number. This project was right before venturing into Pandas, so all of the work was done was without Pandas or SQL.
 
 Project 8 objective: Write functions that return dictionaries, which maps IDs (keys) to their names (values). Parse lists of dictionaries. Bucketize dictionaries into "buckets" of dictionaries, sorted by different elements. 
 
