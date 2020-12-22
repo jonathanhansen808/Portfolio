@@ -1,4 +1,6 @@
-# School Projects 
+# School Projects (Reverse Chronological)
+
+
 Project 2 objective: In this project, you'll learn about types, operators, and boolean logic.
 
 Project 3 objective: Answer pre-written questions on a Jupyter Notebook regarding spending data from different agencies in Madison, Wi. 
