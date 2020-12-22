@@ -1,13 +1,4 @@
-# School Projects (Reverse Chronological)
-
-
-Project 2 objective: In this project, you'll learn about types, operators, and boolean logic.
-
-Project 3 objective: Answer pre-written questions on a Jupyter Notebook regarding spending data from different agencies in Madison, Wi. 
-
-Project 4 objective: Write conditionals on diabetes to make predictions about new patients and their diagnosis. 
-
-Project 5 objective: Extract and analyze data from a wikepedia page using loops and strings. 
+# Projects (Reverse Chronological)
 
 Project 6 objective: Manipulate data from a Kaggle dataset by making use of string manipulation. 
 
