@@ -2,8 +2,4 @@
 
 Project 1: Parse a CSV file on FIFA player data to return information regarding indiviudal player's stats or aggregated information of all players based on keys like country or jersey number. This project was right before venturing into Pandas, so all of the work was done was without Pandas or SQL.
 
-Project 8 objective: Write functions that return dictionaries, which maps IDs (keys) to their names (values). Parse lists of dictionaries. Bucketize dictionaries into "buckets" of dictionaries, sorted by different elements. 
-
-Project 9 objective: Analyze reviews of Amazon projects that is spread across multiple files, where some are CSVs and others JSON. The files will contain missing values or be too corrupt to parse. Additionally, clean the data, represent it as review objects, analyze and plot all results. 
-
-Project 10 objective: Write code to scrape data from a webpage, save it in JSON format, load the data to Pandas DataFrames and analyze it. Then, dumb the DataFrames into a SQLite database and write queries to answer questions. Often, the answer will be in the form of a plot. 
+Project 2: Scraped data regarding countries and their attributes from http://techslides.com/list-of-countries-and-capitals. These attributes included the country's capitals, capital latitude/longitude, population, GDP, literacy rates, and birth/death rate. The data was loaded into a Pandas dataframe and was analyzed on numerous things, including a capitals distance to a coast, which countries are most landlocked, the countries with the highest/lowest birth/death rates, and capital population density. In the second half of the project, the dataframes were dumped into a SQLite database to be queried and visualized on several things, including the number of countries per continent, population per continent, highest/lowest GDP per country, and interesting scatterplots, such as phone usage on GDP per capita or GDP per capita on literacy rates. 
