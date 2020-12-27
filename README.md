@@ -7,7 +7,6 @@
 - These passwords can be entered using Scrape.py's protected_df method, which will then return a dataframe of all the information hidden on the page shown when the password is entered. 
   
 ![](/images/Homepage.png)
-![](/images/Maze_Start.png)
 ![](/images/Protected_df.png)
   
 # [Project 2: Analyzing the Evolution of a Git Repository](https://github.com/Jonnyboyy808/.py_Program_Complexity)
