@@ -1,5 +1,15 @@
 # Jonathan Hansen Portfolio
 
+# [Project 3: Web Scraping with Selenium From a Flask-implemented Website](https://github.com/Jonnyboyy808/hunting_for_treasure)
+- The instructions on how to run scrape on Flask application are included in the project's hyperlink.
+- Scrape.py's easter_egg method scrapes the website to find hidden text between <span> tags that concatenate to a secret message.
+- Scrape.py's dfs_pass and bfs_pass methods uses depth-first search and binary-first search on the website's homepage to collect hidden letters and concatenate them to seperate passwords.
+- These passwords can be entered using Scrape.py's protected_df method, which will then return a dataframe of all the information hidden on the page shown when the password is entered. 
+  
+![](/images/Homepage.png)
+![](/images/Maze_Start.png)
+![](/images/Protected_df.png)
+  
 # [Project 2: Analyzing the Evolution of a Git Repository](https://github.com/Jonnyboyy808/.py_Program_Complexity)
 - The repository I analyzed contained a python program that counted words. 
 - The first step of the project was tracking how the .py file has grown and changed over time and who has made those changes to the repo. 
