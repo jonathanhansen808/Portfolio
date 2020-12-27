@@ -5,6 +5,10 @@
 - Given the size of the .zip files, I first sampled a percentage of it as a .csv file, then added a country column that linked each IP address to its corresponding country. 
 - I visualized with GeoPandas, showing the world's EDGAR traffic per hour, as well as each specific continent's EDGAR per hour. 
 - Lastly, I made an animation showing how the world's EDGAR traffic changes throughout every hour of the day, with darker shading corresponding to more EDGAR traffic. 
+- All instructions on how to run this project can be found on the readme found by clicking the project's hyperlink.
+
+![](/images/8pm.png)
+![](/images/Europe.png)
 
 # [Project 4: Building a Data Website with Flask](https://github.com/Jonnyboyy808/Flask_data_website)
 - The data hosted is on The Rolling Stone's Top 100 songs of all time. 
