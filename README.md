@@ -1,5 +1,7 @@
 # Jonathan Hansen Portfolio
 
+# [Project 6: Wisconsin Land Use](https://github.com/Jonnyboyy808/Wisconsin_land_use) 
+
 # [Project 5: SEC's EDGAR Data Pipeline and Visualizations](https://github.com/Jonnyboyy808/Edgar_Data)
 - This project focuses on compressing EDGAR web logs. EDGAR is the SEC's database for public companies to file incomes statements and other reports. These logs contain anonymized IP addresses of the visitors.
 - Given the size of the .zip files, I first sampled a percentage of it as a .csv file, then added a country column that linked each IP address to its corresponding country. 
