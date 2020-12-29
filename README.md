@@ -1,12 +1,19 @@
 # Jonathan Hansen Portfolio
 
+# [Project 7: Hospital Readmission Machine Learning](https://github.com/Jonnyboyy808/Hospital_readmission)
+- This project focuses on the length of stay and re-admissions for hospital patients with diabetes. 
+- I generated heat maps showing the commonalities of admission source to discharge disposition. 
+- Additionally, I regressed the numbert of days in the hospital on the number of prior visits. 
+- 
+![](/images/Regression.png)
+![](/images/city_plot.png)
+
 # [Project 6: Wisconsin Land Use](https://github.com/Jonnyboyy808/Wisconsin_land_use) 
-- This project dives into how land is used in Wisconsin. The origional dataset covers the whole US, but for this project, I was interested just in Wisconsin. The land is broken up into land usage codes, which can be understood here (https://www.mrlc.gov/data/legends/national-land-cover-database-2016-nlcd2016-legend). 
-- The various land codes represent land features, such as pasture/hay, evergreen forest, woody wetlands etc...
-- I created a python module that created and pulled data from a SQLite3 database, a zip file, and numpy matrices representing land use. 
-- The project boiled down to a connection class that would start a conneciton with a SQLite3 database and included several methods that queueried and visualized the data. 
+- This project dives into how land is used in Wisconsin. The origional dataset covers the whole US, but for this project, I was interested just in Wisconsin. 
+- I created a python module that pulled the data from a SQLite3 database, a zip file, and numpy matrices representing land use. 
+- The project boiled down to a connection class that would start a conneciton with a SQLite3 database and included several methods that queueried the data. 
 - The methods allowed you to return the names, years, and land use code arrays from a specific .npy file in a zip file. 
-- Additionally, I included a method that would regressed land use codes on latitude, to see as you go a degree farther north, how much of a given use code should you expect to see. 
+- Additionally, I regressed land use codes on latitude, to see as you go a degree farther north, how much of a given use code should you expect to see. 
 - Next, I used linear regression to predict, which percentage of an image will contain one of the usage codes passed in for a given year, and return the city with the highest prediction. 
 - Lastly, I created a plot method that allows you to pass in a city and see a line graph of every land use code and its respective % makeup of the city over the years. 
 
