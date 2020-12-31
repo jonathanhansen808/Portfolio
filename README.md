@@ -7,7 +7,7 @@
 - Lastly, I used one-hot encoding to make categorical variables numeric. Then, I regressed number of days in the hospital on additional factors, including race, gender, and age.
 - Lasty, I used logistic regression to predict whether someone will be readmitted to the hospital 30 days after being released.
 ![](/images/Regression.png)
-![](/images/confusion.png)
+![](/images/Confusion.png)
 
 # [Project 6: Wisconsin Land Use](https://github.com/Jonnyboyy808/Wisconsin_land_use) 
 - This project dives into how land is used in Wisconsin. The origional dataset covers the whole US, but for this project, I was interested just in Wisconsin. 
