@@ -3,10 +3,11 @@
 # [Project 7: Hospital Readmission Machine Learning](https://github.com/Jonnyboyy808/Hospital_readmission)
 - This project focuses on the length of stay and re-admissions for hospital patients with diabetes. 
 - I generated heat maps showing the commonalities of admission source to discharge disposition. 
-- Additionally, I regressed the numbert of days in the hospital on the number of prior visits. 
-- 
+- Additionally, I regressed the number of days in the hospital on the number of prior visits. 
+- Lastly, I used one-hot encoding to make categorical variables numeric. Then, I regressed number of days in the hospital on additional factors, including race, gender, and age.
+- Lasty, I used logistic regression to predict whether someone will be readmitted to the hospital 30 days after being released.
 ![](/images/Regression.png)
-![](/images/city_plot.png)
+![](/images/confusion.png)
 
 # [Project 6: Wisconsin Land Use](https://github.com/Jonnyboyy808/Wisconsin_land_use) 
 - This project dives into how land is used in Wisconsin. The origional dataset covers the whole US, but for this project, I was interested just in Wisconsin. 
