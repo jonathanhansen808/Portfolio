@@ -32,7 +32,7 @@
 ![](/images/Europe.png)
 
 # [Project 4: Building a Data Website with Flask](https://github.com/Jonnyboyy808/Flask_data_website)
-- The data hosted is on The Rolling Stone's Top 100 songs of all time. 
+- The data hosted is on The Rolling Stone's Top 500 songs of all time. 
 - The Browse page brings you to a dataframe hosting all the information including data such as the song name, artist(s), producer(s) and writer(s). 
 - The API page allows you to customize the data you're looking for to query your own data.
 - Additionally, the page has a donate link and an email subscription option that allows you to sign up for a mailing list. 
@@ -69,4 +69,3 @@
 ![](/images/Death:Birth%20rate%20DF.png)
 ![](/images/Death-birth-rates.png)
 
-Project 3: 
