@@ -6,6 +6,7 @@
 - Additionally, I regressed the number of days in the hospital on the number of prior visits. 
 - Lastly, I used one-hot encoding to make categorical variables numeric. Then, I regressed number of days in the hospital on additional factors, including race, gender, and age.
 - Lasty, I used logistic regression to predict whether someone will be readmitted to the hospital 30 days after being released.
+
 ![](/images/Regression.png)
 ![](/images/Confusion.png)
 
