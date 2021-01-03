@@ -11,7 +11,7 @@
 ![](/images/Confusion.png)
 
 # [Project 6: Wisconsin Land Use](https://github.com/Jonnyboyy808/Wisconsin_land_use) 
-- This project explores how land is utilized in Wisconsin. The original dataset includes data on the entire United States, however, for this project, I focused solely on the state of Wisconsin. 
+- This project explores how land is utilized in Wisconsin. The original dataset includes data on the entire United States; however, for this project, I focused solely on the state of Wisconsin. 
 - Created a python module that pulls the data from a SQLite3 database, a zip file, and numpy matrices representing land use.  
 - Created a connection class with methods that allows one to return the names, years, and various land usage code arrays from specific numpy files. 
 - Regressed land usage codes on latitude, in order to see as one goes one degree farther north, how much of a given land type should one expect to see as a percentage of the total land. 
