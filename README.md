@@ -25,7 +25,7 @@
 - This project focuses on compressing EDGAR web logs. EDGAR is the SEC's database for public companies to file incomes statements and other reports. These logs contain anonymized IP addresses of the visitors.
 - Sampled a percentage of a csv file containing data for 1/01/2020 and added a country column to the csv that linked each IP address to its corresponding country using regex.
 - Visualized the world's EDGAR traffic per hour, as well as each specific continent's EDGAR per hour using GeoPandas.
-- Generated an animation showing how the world's EDGAR traffic changes throughout each hour of the day, with darker shading representing more EDGAR traffic. 
+- Generated an animation showing how the world's EDGAR traffic changes each hour of the day, with darker shading representing more EDGAR traffic. 
 
 ![](/images/8pm.png)
 ![](/images/Europe.png)
