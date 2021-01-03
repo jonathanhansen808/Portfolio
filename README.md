@@ -53,7 +53,7 @@
 - The repository I analyzed contained a python program wc.py that counted the words of a text passed in. 
 - Analzyed how the .py file had grown and changed over time, including who had made what changes to each commit of repository. 
 - Passed three test strings into my own function "run_wc" that runs every commit of wc.py to see which commits matched the expected output and which did not. 
-- Randomly generated X number of words and chose Y number of unique words from X on which to run the different versions of wc.py on, in order to test the performance of the various commits at different complexities.
+- Randomly generated X number of words and chose Y number of unique words from X on which to run the different versions of wc.py, in order to test the performance of the various commits at different complexities.
 - Visualized the difference in complexity as the chosen words got more and more unique for the two fastest versions of wc.py.
 
 ![](/images/Complexity_DF.png)
