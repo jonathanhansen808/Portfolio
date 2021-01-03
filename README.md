@@ -43,7 +43,7 @@
 # [Project 3: Web Scraping with Selenium From a Flask-implemented Website](https://github.com/Jonnyboyy808/hunting_for_treasure)
 - The website this information was scraped from was created for a class project.
 - Created a scraper class that included an easter_egg method to scrape a specific website to find hidden text between <span> tags that concatenate to a secret message.
-- Designed depth-first search and binary-first search  methods, dfs_pass and bfs_pass, that search on the website's homepage to collect hidden letters and concatenate them to seperate passwords.
+- Designed depth-first search and binary-first search  methods, dfs_pass and bfs_pass, that search the website's homepage to collect hidden letters and concatenate them to seperate passwords.
 - Designed a protected_df method to enter passwords on the homepage, which will then return a dataframe of all the information hidden on the page shown when the password is entered. 
   
 ![](/images/Homepage.png)
