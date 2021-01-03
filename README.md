@@ -32,8 +32,8 @@
 
 # [Project 4: Building a Data Website with Flask](https://github.com/Jonnyboyy808/Flask_data_website)
 - The data hosted uses Rolling Stone's Greatest 500 Songs of all Time list. 
-- Produced a browse page bringing visitors to a dataframe, including data, such as the song name, artist(s), producer(s) and writer(s). 
-- Created an API page that allows one to query their own data to get their desired custom information.
+- Produced a browse page bringing visitors to a dataframe, including data such as the song name, artist(s), producer(s) and writer(s). 
+- Created an API page that allows data to be queried in order to return desired custom information.
 - Included a donate link and an email subscription option that allows users to sign up for a mailing list. 
 
 ![](/images/Datasite_Homepage.png)
