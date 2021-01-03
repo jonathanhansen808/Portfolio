@@ -63,7 +63,7 @@
 # [Project 1: Analyzing the Geography of Countries and Their Capitals](https://github.com/Jonnyboyy808/Country_and_Capital_Geography-)
 - The data scraped was from [techslides](http://techslides.com/list-of-countries-and-capitals).
 - Put the data into Pandas dataframes and analyzed various pieces of information, such as the most landlocked countries, the countries with the highest/lowest birth/death rates, and their capitals' population density and distance to the closest coast. 
-- Dumped the dataframes into a SQLite3 database to be queried and visualized on several things, including the number of countries per continent, population per continent, highest/lowest GDP per country.
+- Inserted the dataframes into a SQLite3 database to be queried and visualized on several things, including the number of countries per continent, population per continent, highest/lowest GDP per country.
 - Generated scatterplots, such as phone usage on GDP per capita or GDP per capita on literacy rates. 
 
 ![](/images/Death:Birth%20rate%20DF.png)
