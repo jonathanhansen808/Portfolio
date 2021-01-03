@@ -14,7 +14,7 @@
 - This project explores how land is utilized in Wisconsin. The original dataset includes data on the entire United States; however, for this project, I focused solely on the state of Wisconsin. 
 - Created a python module that pulls the data from a SQLite3 database, a zip file, and numpy matrices representing land use.  
 - Created a connection class with methods that allows one to return the names, years, and various land usage code arrays from specific numpy files. 
-- Regressed land usage codes on latitude, in order to see how much of a given land type should be expected as a percentage of the total land as one goes one degree farther north.
+- Regressed land usage codes on latitude, in order to see how much of a given land type should be expected as a percentage of total land as one goes one degree farther north.
 - Used linear regression to predict what percentage of an image will contain one of the usage codes passed in for a given year, and return the Wisconsin city with the highest predicted percentage. 
 - Created a plotting method that allows one to pass in a specific city and see every land usage code and its respective percentage makeup of the city over the years. 
 
