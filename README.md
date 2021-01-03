@@ -64,7 +64,7 @@
 - The data scraped was from [techslides](http://techslides.com/list-of-countries-and-capitals).
 - Put the data into Pandas dataframes and analyzed various pieces of information, such as the most landlocked countries, the countries with the highest/lowest birth/death rates, and their capitals' population density and distance to the closest coast. 
 - Inserted the dataframes into a SQLite3 database to be queried and visualized on several things, including the number of countries per continent, population per continent and highest/lowest GDP per country.
-- Generated scatterplots, such as phone usage on GDP per capita or GDP per capita on literacy rates. 
+- Generated scatterplots, such as phone usage vs GDP per capita or literacy rates vs GDP per capita.
 
 ![](/images/Death:Birth%20rate%20DF.png)
 ![](/images/Death-birth-rates.png)
