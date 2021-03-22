@@ -20,7 +20,7 @@
 ![](/images/Madison.png)
 ![](/images/city_plot.png)
 
-# [Project 5: SEC's EDGAR Data Pipeline and Visualizations](https://github.com/Jonnyboyy808/Edgar_Data)
+# [SEC's EDGAR Data Pipeline and Visualizations](https://github.com/Jonnyboyy808/Edgar_Data)
 - This project focuses on compressing EDGAR web logs. EDGAR is the SEC's database for public companies to file incomes statements and other reports. These logs contain anonymized IP addresses of the visitors.
 - Sampled a percentage of a csv file containing data for 1/01/2020 and added a country column to the csv that linked each IP address to its corresponding country using regex.
 - Visualized the world's EDGAR traffic per hour, as well as each specific continent's EDGAR per hour using GeoPandas.
