@@ -1,6 +1,6 @@
 # Jonathan Hansen's Portfolio
 
-# [Project 7: Hospital Readmission Machine Learning](https://github.com/Jonnyboyy808/Hospital_readmission)
+# [Hospital Readmission Machine Learning](https://github.com/Jonnyboyy808/Hospital_readmission)
 - This project looks at the relationship between length of stay and readmission for hospital patients with diabetes. 
 - Generated heat maps showing the commonalities of admission source to discharge disposition. 
 - Regressed the number of days in the hospital on the number of prior visits. 
