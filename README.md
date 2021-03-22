@@ -10,11 +10,10 @@
 ![](/images/Regression.png)
 ![](/images/Confusion.png)
 
-# [Project 6: Wisconsin Land Use](https://github.com/Jonnyboyy808/Wisconsin_land_use) 
-- This project explores how land is utilized in Wisconsin. The original dataset includes data on the entire United States; however, for this project, I focused solely on the state of Wisconsin. 
+# [Land Use Around Wisconsin](https://github.com/Jonnyboyy808/Wisconsin_land_use) 
+- This project explores how land is utilized in Wisconsin. Some of the various land types are open water, deciduous forest, and developed land.  
 - Created a python module that pulls the data from a SQLite3 database, a zip file, and numpy matrices representing land use.  
-- Created a connection class with methods that allows one to return the names, years, and various land usage code arrays from specific numpy files. 
-- Regressed land usage codes on latitude, in order to see how much of a given land type should be expected as a percentage of total land as one goes one degree farther north.
+- Regressed land usage codes on latitude, in order to see how much of a specified land type should be expected as a percentage of total land as one goes one degree farther north.
 - Used linear regression to predict what percentage of an image will contain one of the usage codes passed in as an argument for a given year, returning the Wisconsin city with the highest predicted percentage. 
 - Created a plotting method that allows one to pass in a specific city and see every land usage code and its respective percentage makeup of the city over the years. 
 
@@ -30,7 +29,7 @@
 ![](/images/8pm.png)
 ![](/images/Europe.png)
 
-# [Project 4: Building a Data Website with Flask](https://github.com/Jonnyboyy808/Flask_data_website)
+# [Analyzing Rolling Stone Magazine's Greatest 500 Songs Website With Flask](https://github.com/Jonnyboyy808/Flask_data_website)
 - The data hosted uses Rolling Stone's Greatest 500 Songs of all Time list. 
 - Produced a browse page bringing visitors to a dataframe, including data such as the song name, artist(s), producer(s) and writer(s). 
 - Created an API page that allows data to be queried in order to generate custom information.
@@ -40,16 +39,7 @@
 ![](/images/Browse_DF.png)
 ![](/images/API.png)
 
-# [Project 3: Web Scraping with Selenium From a Flask-implemented Website](https://github.com/Jonnyboyy808/hunting_for_treasure)
-- The website this information was scraped from was created for a class project.
-- Created a scraper class that included an easter_egg method to scrape a specific website to find hidden text between <span> tags that concatenate to a secret message.
-- Designed depth-first search and binary-first search  methods, dfs_pass and bfs_pass, that search the website's homepage to collect hidden letters and concatenate them to separate passwords.
-- Designed a protected_df method to enter passwords on the homepage, which will then return a dataframe of all the information hidden on the page shown when the password is entered. 
-  
-![](/images/Homepage.png)
-![](/images/Protected_df.png)
-  
-# [Project 2: Analyzing the Evolution of a Git Repository](https://github.com/Jonnyboyy808/.py_Program_Complexity)
+# [Analyzing the Evolution of a Git Repository](https://github.com/Jonnyboyy808/.py_Program_Complexity)
 - The repository I analyzed contained a python program wc.py that counted the words of a text passed in. 
 - Analzyed how the .py file had grown and changed over time, including who had made what changes to each commit of repository. 
 - Passed three test strings into my own function "run_wc" that runs every commit of wc.py to see which commits matched the expected output and which did not. 
@@ -60,7 +50,7 @@
 ![](/images/Complexity.png)
 
 
-# [Project 1: Analyzing the Geography of Countries and Their Capitals](https://github.com/Jonnyboyy808/Country_and_Capital_Geography-)
+# [Analyzing the Geography of Countries and Their Capitals](https://github.com/Jonnyboyy808/Country_and_Capital_Geography-)
 - The data scraped was from [techslides](http://techslides.com/list-of-countries-and-capitals).
 - Put the data into Pandas dataframes and analyzed various pieces of information, such as the most landlocked countries, the countries with the highest/lowest birth/death rates, and their capitals' population density and distance to the closest coast. 
 - Inserted the dataframes into a SQLite3 database to be queried and visualized on several things, including the number of countries per continent, population per continent, and highest/lowest GDP per country.
