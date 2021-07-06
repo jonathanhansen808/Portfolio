@@ -1,7 +1,7 @@
 # Jonathan Hansen's Portfolio
 
 # [America's Pastime Reviews Website](https://americaspastime-99f97.web.app) 
-- This project was created by Peter Kennedy and I, and is hosted by Google Firebase and built using Bulma and JavaScript. 
+- This project was created by Peter Kennedy and I. America's Pastime Reviews is hosted by Google Firebase and was built using Bulma and JavaScript. 
 - The site was created with the intent of consolidating stadium information, event tickets, and rankings for all 30 teams in the MLB.
 - Users must sign up or sign in order to leave a review or see other reviews. 
 - Firebase was utilized to store user account credentials, stadium reviews and pictures. 
