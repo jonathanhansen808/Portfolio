@@ -1,10 +1,11 @@
 # Jonathan Hansen's Portfolio
 
-# [America's Pastime Stadium Reviews Website](https://americaspastime-99f97.web.app) 
+# [America's Pastime Reviews Website](https://americaspastime-99f97.web.app) 
 - This project was created by Peter Kennedy and I, and is hosted by Google Firebase and built using Bulma and JavaScript. 
-- The site consolidates information and rankings on all 30 team stadiums in the MLB.
-- Users must sign up or sign in in order to leave or see a review on the site. Firebase was leveraged here to store user's account credentials and to allow users to upload pictures with their reviews. 
-- Be sure to check out some of the cool stadiums featured like the Chicago Cubs or San Francisco Giants.  
+- The site was created with the intent of consolidating stadium information, event tickets, and rankings for all 30 teams in the MLB.
+- Users must sign up or sign in order to leave a review or see other reviews. 
+- Firebase was utilized to store user account credentials, stadium reviews and pictures. 
+- Be sure to check out some of the cool stadiums featured like the Chicago Cubs or San Francisco Giants!  
 
 ![](/images/home.PNG)
 ![](/images/pit.PNG)
