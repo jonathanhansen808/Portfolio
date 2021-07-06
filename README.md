@@ -6,8 +6,8 @@
 - Users must sign up or sign in in order to leave or see a review on the site. Firebase was leveraged here to store user's account credentials and to allow users to upload pictures with their reviews. 
 - Be sure to check out some of the cool stadiums featured like the Chicago Cubs or San Francisco Giants.  
 
-![](/images/home.png)
-![](/images/pit.png)
+![](/images/home.PNG)
+![](/images/pit.PNG)
 
 # [Hospital Readmission Machine Learning](https://github.com/Jonnyboyy808/Hospital_readmission)
 - This project looks at the relationship between length of stay and readmission for hospital patients with diabetes. 
