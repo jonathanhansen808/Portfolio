@@ -1,6 +1,6 @@
 # Jonathan Hansen's Portfolio
 
-# [Modeling Crime in North Carolina in RStan](https://github.com/jonathanhansen808/crime_modeling)
+# [Modeling Crime in North Carolina Using RStan](https://github.com/jonathanhansen808/crime_modeling)
 - This project looks at the influence of several deterrent and non-deterrent factors that affect a county's crime rate. 
 - The Data is from the Ecdat R package Crime: Crime in North Carolina (https://rdrr.io/cran/Ecdat/man/Crime.html).
 - The data spans from 1981 to 1987 and includes data from 88 counties in North Carolina (n=618). 
