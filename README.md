@@ -10,8 +10,8 @@
 - As a result of predicting better out-of-sample, the hierarchical model turned out to be the better choice of model. 
 - Of the four explanatory variables, probability of arrest turned out to be the only crime deterrent, since as the probability of arrest increased, the crime rate decreased. Interestinly, as the population of police increased in a given county, relative to the average in North Carolina, crime increased. 
 
-![](/images/oos.PNG)
-![](/images/hiermodel.PNG)
+![](/images/MLR_OOS_hierarchical.png)
+![](/images/county_baseline_probs.png)
 
 
 # [America's Pastime Reviews Website](https://americaspastime-99f97.web.app) 
