@@ -1,13 +1,12 @@
 # Jonathan Hansen's Portfolio
 
 # [Modeling Crime in North Carolina Using RStan](https://github.com/jonathanhansen808/crime_modeling)
-- This project looks at the influence of several deterrent and non-deterrent factors that affect a county's crime rate. 
+- This project looks at the influence of several deterrent and non-deterrent factors that affect a county's crime rate in North Carolina. 
 - The Data is from the Ecdat R package Crime: Crime in North Carolina (https://rdrr.io/cran/Ecdat/man/Crime.html).
 - The data spans from 1981 to 1987 and includes data from 88 counties in North Carolina (n=618). 
 - The explanatory variables chosen for analysis were the probability of arrest, probability of a prison sentence, the county's population density, and the ratio of a county's police force to the average police force density. The response variable was the county's crime rate in a given year. 
 - All variables included were transformed logarithmically and two bayesian log-log regression models were fit. The first model used a pooled intercept approach, giving all counties the same baseline crime rate. The second model was hierarchical, where each county had a different intercept for crime rate. 
 - Using 1987 as a year to test both models' predictions, the pooled intercept model captured 80/88 counties in 95% prediction intervals, and the hierarchical model captured 83/88 counties in 95% prediction intervals. 
-- As a result of predicting better out-of-sample, the hierarchical model turned out to be the better choice of model. 
 - Of the four explanatory variables, probability of arrest turned out to be the only crime deterrent, since as the probability of arrest increased, the crime rate decreased. Interestinly, as the population of police increased in a given county, relative to the average in North Carolina, crime increased. 
 
 ![](/images/MLR_OOS_hierarchical.png)
@@ -16,9 +15,9 @@
 
 # [America's Pastime Reviews Website](https://americaspastime-99f97.web.app) 
 - This project was created by Peter Kennedy and I. America's Pastime Reviews is hosted by Google Firebase and was built using Bulma and JavaScript. 
-- The site was created with the intent of consolidating stadium information, event tickets, and rankings for all 30 teams in the MLB.
+- The site was created with the intent of consolidating stadium information, event tickets, and stadium rankings for all 30 teams in the MLB.
 - Users must sign up or sign in order to leave a review or see other reviews. 
-- Firebase was utilized to store user account credentials, stadium reviews and pictures. 
+- Firebase was utilized to store user account credentials, stadium reviews and pictures through a NoSQL database. 
 - Be sure to check out some of the cool stadiums featured like the Chicago Cubs or San Francisco Giants!  
 
 ![](/images/home.PNG)
