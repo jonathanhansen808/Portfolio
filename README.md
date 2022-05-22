@@ -1,5 +1,13 @@
 # Jonathan Hansen's Portfolio
 
+# [Beer Production in America Using RShiny] (https://github.com/jonathanhansen808/beer_production)
+- This project visualizes beer production across the United States from 2009-2019. 
+- Production consists of the number of barrels produced in beer bottles or cans in a given year.
+- The Shiny application includes both a bar chart of the top 15 states in beer production for a year, as well as a map of the contienental United States where the states are shaded by their production for a year. 
+
+![](/images/beer_bar.png)
+![](/images/beer_map.png)
+
 # [Modeling Crime in North Carolina Using RStan](https://github.com/jonathanhansen808/crime_modeling)
 - This project looks at the influence of several deterrent and non-deterrent factors that affect a county's crime rate in North Carolina. 
 - The Data is from the Ecdat R package Crime: Crime in North Carolina (https://rdrr.io/cran/Ecdat/man/Crime.html).
