@@ -5,8 +5,7 @@
 - Production consists of the number of barrels produced in beer bottles or cans in a given year.
 - The Shiny application includes both a bar chart of the top 15 states in beer production for a year, as well as a map of the contienental United States where the states are shaded by their production for a year. 
 
-![](/images/beer_bar.png)
-![](/images/beer_map.png)
+![](/images/beer_app.png)
 
 # [Modeling Crime in North Carolina Using RStan](https://github.com/jonathanhansen808/crime_modeling)
 - This project looks at the influence of several deterrent and non-deterrent factors that affect a county's crime rate in North Carolina. 
