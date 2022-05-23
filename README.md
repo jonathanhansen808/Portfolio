@@ -4,6 +4,7 @@
 - This project analyzes precipitation, temperature, drought, and natural disaster data from 1920-2021 in California.
 - The application includes four tabs, including one on yearly precipiation and temperature averages of 10 California areas, where users can select an area to view against the other nine areas. The second tab shows the same 10 areas on a map, where users can see precipitation and temperature averages for the year and month of their choice. The third tab shows the percentage of California under five specific drought severity levels (e.g., D0 is the least severe and D5 is the most severe) for a selected span of years. The last tab is a static plot of the count of natural disasters in California from 1980-2020 and their respective costs. 
 - Findings include seeing temperatures, severe droughts, and natural disasters increasing over time and precipitation decreasing over time. 
+- Data was used from https://www.weather.gov/wrh/climate, https://www.drought.gov/states/california, and https://www.ncei.noaa.gov.
 
 ![](/images/temp_plot.png)
 ![](/images/temp_map.png)
