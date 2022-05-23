@@ -1,6 +1,16 @@
 # Jonathan Hansen's Portfolio
 
-# [Beer Production in America Using RShiny](https://github.com/jonathanhansen808/beer_production)
+# [California Weather Trends Using RShiny](https://jonathanhansen808.shinyapps.io/californiaWeather/)
+- This project analyzes precipitation, temperature, drought, and natural disaster data from 1920-2021 in California.
+- The application includes four tabs, including one on yearly precipiation and temperature averages of 10 California areas, where users can select an area to view against the other nine areas. The second tab shows the same 10 areas on a map, where users can see precipitation and temperature averages for the year and month of their choice. The third tab shows the percentage of California under five specific drought severity levels (e.g., D0 is the least severe and D5 is the most severe) for a selected span of years. The last tab is a static plot of the count of natural disasters in California from 1980-2020 and their respective costs. 
+- Findings include seeing temperatures, severe droughts, and natural disasters increasing over time and precipitation decreasing over time. 
+
+![](/images/temp_plot.png)
+![](/images/temp_map.png)
+![](/images/drought.png)
+![](/images/nat_disasters.png)
+
+# [Beer Production in America Using RShiny](https://jonathanhansen808.shinyapps.io/beer/)
 - This project visualizes beer production across the United States from 2009-2019. 
 - Production consists of the number of barrels produced in beer bottles or cans for a given year.
 - The Shiny application includes both a bar chart of the top 15 states in beer production for a year, as well as a map of the continental United States, where the states are shaded by their production for a year. 
